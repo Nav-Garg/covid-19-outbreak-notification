@@ -1,6 +1,8 @@
 # covid-19-outbreak-notification
 
-This Realtime CoronaVirus Outbreak Notification System Using Python 3.7.3
+A Realtime CoronaVirus Outbreak Notification on your System. 
+
+Using Python 3.7.3
 
 > ### To use this code.
 
