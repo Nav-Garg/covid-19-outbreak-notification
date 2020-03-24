@@ -2,7 +2,7 @@
 
 This Realtime CoronaVirus Outbreak Notification System Using Python 3.7.3
 
-> ### To use this code, simply pull the main.py.
+> ### To use this code.
 
 Installing:
 * Open Terminal/CMD
